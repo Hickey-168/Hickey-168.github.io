@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Hickey's blog
 
-You can use the [editor on GitHub](https://github.com/Hickey-168/Hickey-168.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ Up to now, the user want to maintain a blog to write something that he is interesting in, so if you ever find something that is familar
+to the author's idea, you can contact him by Wechat or QQ. The thought of build a blog have been a memory as I choose software engineering as my subject that I majored in since I began my college life last year.And now, I have made it.
+ To begin with, I will continually update my blog and pull request my code to github, all browser are welcome to fork it and I am also willing to share my idea with you on everything I have ever mentioned while you have got some new or better suggestion and use them to promote my code. Once your advice is accpeted, I will show my truely gratitude to you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Career Planning
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+ I major in the software engineering, and if everything go against my ideal aspiration, I have to choose finding a satisfactory internship in my junior year. Considering the current employment situation, machine learning is probably the most suitble research direction for me, which means I will put my learning point mostly focusing on the Algorithm analysis and data structure. As you can see, that's not a simple mission, and until now, I can't give a certain answer that I'll be in this business, all of these are just my current thought,not my future. But what I can promise is that I will give all of myself on the things that I have always persued.
 ```markdown
-Syntax highlighted code block
+我的博客可能的介绍：
 
 # Header 1
 ## Header 2
