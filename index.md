@@ -27,9 +27,18 @@ to the author's idea, you can contact him by Wechat or QQ. The thought of build 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 计算机网络
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hickey-168/Hickey-168.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+第三章：运输层
+    3.1运输层为运行在不同主机上的应用进程之间提供了逻辑通信功能。
+       发送端和接收都经历了报文段的转化（经由运输层改变
+       运输层协议（TCP（传输控制协议）和UDP（用户数据报协议））
+       TCP的运输层分组叫做报文段，UDP的运输层分组叫数据报。
+    3.2将运输层报文段中的数据交付到正确的套接字的工作称为多路分解。在源主机从不同套接字中收集数据块，并为每个数据块封装上首部信息（这将在以后用于分          解）从而生成报文段，然后将报文段传递到网络层，所有这些工作称为多路复用。
+       运输层多路复用的要求：1.套接字有唯一标识符  2.每个报文段有特殊字段来指示该报文段所要交付到的套接字。
+       这些特殊字段是源端口号字段和目的端口号字段。（端口号16bit 故两个字段组合而成的字段为32bit）
+       （比方说我们开发一个新的应用程序时，必须为其分配一个编口号）
+       
 
 ### Support or Contact
 
